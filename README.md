@@ -1,6 +1,6 @@
 # Event camera data processing tutorials
 
-Adapted from https://github.com/gcohen/AMOS-Short-Course/, originally authored by Gregory CCohen, Brian McReynolds, and Rachel Oliver.
+Adapted from https://github.com/gcohen/AMOS-Short-Course/, originally authored by Gregory Cohen, Brian McReynolds, and Rachel Oliver.
 
 The course contains three tutorials. They cover the basics of working with event camera data, techniques for working with star data, and the use of event-warping and astrometry to find star map solutions.
 
